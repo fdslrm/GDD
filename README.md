@@ -1,5 +1,5 @@
 ## A practical, effective calculation of gamma difference distributions <br> with open data science tools
-*a research paper and supplementary materials - software, notebooks*
+*a research paper with supplementary materials - software, notebooks*
 
 by **Martina Hančová, Andrej Gajdoš, Jozef Hanč**  
 <martina.hancova@upjs.sk>
