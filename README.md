@@ -20,12 +20,12 @@ The potential future application of our tool for a mixture of characteristic fun
 
 This is a pre-print of an article submitted to [Journal of Statistical Computation and Simulation](https://www.tandfonline.com/loi/gscs20). The preprint is available at <https://arxiv.org/abs/2105.04427>.
 
-## Software [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) 
+## Software [![render in nbviewer](figures/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) 
 
 The notebooks folders contain our open codes, Jupyter and Mathematica notebooks from the entire numerical study which are detailed records of our computing 
 with explaining narratives ilustrating explored concepts and methods. 
 
-Notebooks can be studied and **viewed** statically in [Jupyter nbviewer](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) with full visualisation. If there is a need, they can be also viewed directly on Github [`index.ipynb`](index.ipynb), also as a raw code. 
+Notebooks can be studied and **viewed** statically in [Jupyter nbviewer](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) [![render in nbviewer](figures/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) with full visualisation. If there is a need, they can be also viewed directly on Github [`index.ipynb`](index.ipynb), also as a raw code. 
 
 For interactive **executing** Jupyter notebooks as live documents without any need to install or compile the software use [CoCalc](https://cocalc.com/) providing interactive computing with our Jupyter notebooks.
  
