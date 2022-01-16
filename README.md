@@ -18,7 +18,7 @@ The potential future application of our tool for a mixture of characteristic fun
 
 ## Research paper 
 
-This is a pre-print of an article submitted to [Journal of Statistical Computation and Simulation](https://www.tandfonline.com/loi/gscs20). The pre-print is available at <https://arxiv.org/abs/2105.04427>.
+This is a pre-print of an article recently accepted for publishing in [Journal of Statistical Computation and Simulation](https://www.tandfonline.com/loi/gscs20). The pre-print is available at <https://arxiv.org/abs/2105.04427>.
 
 ## Software [![render in nbviewer](figures/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/GDD/tree/main/) 
 
