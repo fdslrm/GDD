@@ -38,5 +38,5 @@ All source code is distributed under [the MIT license](https://choosealicense.co
 This work was supported by the Slovak Research and Development Agency under the contract no. APVV-17-0568 and the Internal Research Grant System of Faculty of Science, P. J. Šafárik University in Košice - project vvgs-pf-2020-1423.
 
 ## Further applications
-The developed algorithms and open science digital tools became a starting point for computational, simulation and theoretical reseach in our
+The developed algorithms and open science digital tools were embedded and became a starting point for computational, simulation and theoretical reseach in our
 current projects supported by the Slovak Research and Development Agency under the Contract no. APVV-21-0216 and APVV-21-0369.
