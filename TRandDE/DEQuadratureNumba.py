@@ -2,6 +2,7 @@
 Original C file for DE quadrature: Takuya Ooura, https://www.kurims.kyoto-u.ac.jp/~ooura/index.html
 Python conversion and modification: Andrej Gajdos, Jozef Hanc, https://github.com/fdslrm
 Numba optimization using a wrapper (factory function) for a function as an argument
+Our application: numerical inversion of characteristic function
 """
 
 import math
