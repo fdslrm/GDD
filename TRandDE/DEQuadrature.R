@@ -1,5 +1,6 @@
 # Original C file for DE quadrature: Takuya Ooura, https://www.kurims.kyoto-u.ac.jp/~ooura/index.html
 # R conversion and modification: Andrej Gajdos, https://github.com/fdslrm
+# our application for numerical inversion of characteristic function
 
 intde <- function(f, a, b, eps, ...) {
   
